@@ -29,6 +29,7 @@
         gap-4
         md:gap-4
         lg:gap-8
+        sm:px-4
         h-full
       "
     >
