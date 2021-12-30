@@ -6,6 +6,7 @@
         max-w-7xl
         mx-auto
         py-6
+        px-4
         sm:px-6
         lg:px-8
         align-self-center
@@ -29,7 +30,6 @@
         gap-4
         md:gap-4
         lg:gap-8
-        sm:px-4
         h-full
       "
     >
